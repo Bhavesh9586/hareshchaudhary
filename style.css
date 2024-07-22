@@ -1,0 +1,112 @@
+/* Created by alyssa denise */
+
+
+
+
+body {
+
+    background-color: #252445;
+
+
+    .login-title {
+        color: #181818;
+        margin-Top: 5px;
+        margin-left: 20px;
+        font-family: 'georgia';
+        text-align: center;
+    }
+
+
+    .loginbg {
+        width: 300px;
+        height: 350px;
+        border: 2px;
+        background-color: #526022;
+        margin: 0 auto;
+        border-radius: 25px;
+        text-align: center;
+
+    }
+
+
+    .email-input {
+        margin-bottom: 15px;
+        height: 30px;
+        width: 270px;
+        border-radius: 18px;
+        border-style: solid;
+        border-color: black;
+        background-color: white;
+        padding-left: 15px;
+    }
+
+
+    .password-input {
+        height: 30px;
+        width: 270px;
+        border-radius: 18px;
+        border-color: black;
+        border-style: solid;
+        padding-left: 15px;
+    }
+
+
+    .rememberme {
+        font-size: 20px;
+        margin-right: 5px;
+    }
+
+
+    .forgotpassword {
+        font-size: 15px;
+        margin-left: 20px;
+        color: red;
+        text-decoration: none;
+    }
+
+
+    .forgotpassword:hover {
+        color: black;
+        transition-duration: 0.15s;
+    }
+
+
+    .login-button {
+        height: 40px;
+        width: 208px;
+        border-radius: 50px;
+        margin-top: 25px;
+        background-color: #252243;
+        color: white;
+        margin-bottom: 10px;
+    }
+
+
+    .login-button:hover {
+        background-color: gray;
+        border-style: solid;
+        color: white;
+        transition-duration: 0.15s;
+        cursor: pointer;
+    }
+
+
+    .signmeup {
+        font-size: 12.5px;
+        font-family: serif;
+        text-decoration: none;
+        margin-right: 25px;
+    }
+
+
+    .signmeuplabel {
+        font-size: 12.5px;
+        font-family: serif;
+        text-decoration: none;
+        margin-left: 25px;
+
+
+    }
+
+
+}
